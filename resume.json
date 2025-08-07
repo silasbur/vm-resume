@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Victor Marks",
+    "label": "Software Engineer",
+    "email": "vjmarks@gmail.com",
+    "phone": "408-507-2347",
+    "summary": "Experienced Software Engineer with a strong background in front-end development, cloud infrastructure, and full-stack applications. Proven track record of delivering scalable solutions that improve user experience and reduce operational costs.",
+    "location": {
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "WA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Oracle",
+      "position": "Software Engineer",
+      "location": "Seattle, WA",
+      "startDate": "2020-01",
+      "endDate": "2024-07",
+      "highlights": [
+        "Led development of a two-way ticketing system using Oracle's internal React framework, streamlining communication between cloud customers and security engineers and reducing cumulative response times by 2.5 days",
+        "Bootstrapped the Data Loss Prevention front-end from the ground up, building reusable React components, implementing client-side validation, and integrating with secure APIs to assess risk, classify results, and recommend actions for securely handling customer-uploaded object storage data",
+        "Redesigned the container instance shape picker UI by expanding available shape options by 50% and enabling dynamic CPU core and memory customization, resulting in a 30% reduction in user configuration time for thousands of container deployments each month",
+        "Implemented front-end support for private registry vault secrets and Linux security contexts in containerized workloads, strengthening the security posture of Oracle's Container Instances",
+        "Delivered autoscaling, load balancing, and observability for Oracle Kubernetes Engine, integrating node cycling, automatic version upgrades, Istio, ingress controller, and dashboards - saving customers over $1M annually in over-provisioning costs"
+      ]
+    },
+    {
+      "name": "Faneron",
+      "position": "Software Engineer Intern",
+      "location": "San Francisco, CA",
+      "startDate": "2018-11",
+      "endDate": "2018-12",
+      "highlights": [
+        "Rebuilt cosmetic e-commerce platform using Gatsby and GraphQL, improving SEO scores by 25% and reducing page load time from 2.7s to 1.3s via static site generation and CDN caching",
+        "Visualized sales data with dynamic SVGs of the United States and reduced build time by 80% through Webpack config optimization",
+        "Integrated real-time chat and content management tools using GraphQL and third-party APIs"
+      ]
+    },
+    {
+      "name": "Anatomage",
+      "position": "Software Technician",
+      "location": "San Jose, CA",
+      "startDate": "2014-03",
+      "endDate": "2017-02",
+      "highlights": [
+        "Trained 12+ staff in 3D modeling tools and QA best practices, reducing onboarding time for new hires by 50% and improving model accuracy in surgical planning software",
+        "Validated software for 3D dental guides, ensuring precision in dental implant surgery planning"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Santa Cruz",
+      "area": "Molecular Biology",
+      "studyType": "B.S.",
+      "startDate": "2009",
+      "endDate": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-End",
+      "keywords": [
+        "React",
+        "TypeScript",
+        "JavaScript (ES6+)",
+        "Next.js",
+        "HTML",
+        "CSS/SASS",
+        "Redux",
+        "Context API",
+        "Performance Optimization",
+        "Vite",
+        "Vitest",
+        "React Testing Library",
+        "Playwright"
+      ]
+    },
+    {
+      "name": "Back-End",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "REST API Design",
+        "Authentication/Authorization"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "keywords": [
+        "AWS",
+        "Oracle Cloud Infrastructure (OCI)",
+        "Docker",
+        "Terraform",
+        "CI/CD pipelines",
+        "Grafana",
+        "Adobe Analytics"
+      ]
+    }
+  ]
+}
